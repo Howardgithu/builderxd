@@ -31,3 +31,4 @@
 - Nginx was uninstalled and replaced with Apache
 - Server has ample resources for current operations
 - A file manager has been installed (specific details not provided)
+- Git repository location: /var/www/builderxd.com/builderxd/
